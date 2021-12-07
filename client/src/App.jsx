@@ -6,7 +6,7 @@ import {Footer, Contact} from './components/index'; //importa do index da pasta 
 const App = () => {
   return (
     <div className="App">
-      <Footer />
+      <Contact />
       {/* <Footer /> */}
     </div>
 )
